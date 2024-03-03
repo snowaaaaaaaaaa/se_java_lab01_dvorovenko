@@ -8,7 +8,7 @@
 
 ![photo_2_2024-03-03_17-03-04](https://github.com/snowaaaaaaaaaa/se_java_lab01_dvorovenko/assets/144525592/224bf3bd-1ee8-49d1-b34f-419b55acc677)
 
-code : 
+### code : 
 ```
 import java.util.Scanner;
 
